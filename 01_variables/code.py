@@ -11,11 +11,12 @@ print(result)
 
 # -- Strings --
 
-name = "Arun"
-name = "Arun"
+name = "John"
+#name = "Arun"
 
 print(name)
-print(name * 5)
+# print(name * 5)
+print(name + name + name + name + name)
 
 # -- Changing variables --
 # Variables are names for values.
